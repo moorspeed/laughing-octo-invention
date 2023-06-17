@@ -1,2 +1,2 @@
-# MoreSpeed
-# BrainForce
+# MoreSpeed Architecture
+# BrainForce LLC
